@@ -1,0 +1,9 @@
+mcp
+langchain-mcp-adapters
+langchain
+langgraph
+langchain-aws
+boto3
+pandas
+plotly
+openpyxl
